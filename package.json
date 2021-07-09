@@ -10,7 +10,7 @@
   "dependencies": {
     "@solana/web3.js": "^0.63.2",
     "bip39": "^3.0.2",
-    "bn.js": "^5.1.2",
+    "bn.js": "^5.2.0",
     "core-js": "^3.6.5",
     "tweetnacl": "^1.0.3",
     "vue": "^2.6.11",
